@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+scikit-learn
+statsmodels
+kagglehub
+requests
+tqdm
+beautifulsoup4
+folium
+ipython
+jupyter
